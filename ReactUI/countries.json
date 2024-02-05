@@ -1,0 +1,4405 @@
+{
+  "Countries": [
+    {
+      "name": "Türkiye",
+      "code": "90",
+      "cities": [
+        {
+          "name": "Adana",
+          "code": "01",
+          "towns": [
+            {
+              "name": "Aladağ",
+              "code": "01_01"
+            },
+            {
+              "name": "Seyhan",
+              "code": "01_02"
+            },
+            {
+              "name": "Yüreğir",
+              "code": "01_03"
+            },
+            {
+              "name": "Çukurova",
+              "code": "01_04"
+            },
+            {
+              "name": "Sarıçam",
+              "code": "01_05"
+            },
+            {
+              "name": "Ceyhan",
+              "code": "01_06"
+            },
+            {
+              "name": "Kozan",
+              "code": "01_07"
+            },
+            {
+              "name": "İmamoğlu",
+              "code": "01_08"
+            },
+            {
+              "name": "Karataş",
+              "code": "01_09"
+            },
+            {
+              "name": "Karaisalı",
+              "code": "01_10"
+            },
+            {
+              "name": "Pozantı",
+              "code": "01_11"
+            },
+            {
+              "name": "Yumurtalık",
+              "code": "01_12"
+            },
+            {
+              "name": "Tufanbeyli",
+              "code": "01_13"
+            },
+            {
+              "name": "Feke",
+              "code": "01_14"
+            },
+            {
+              "name": "Saimbeyli",
+              "code": "01_15"
+            }
+          ]
+        },
+        {
+          "name": "Adıyaman",
+          "code": "02",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "02_01"
+            },
+            {
+              "name": "Kahta",
+              "code": "02_02"
+            },
+            {
+              "name": "Besni",
+              "code": "02_03"
+            },
+            {
+              "name": "Gölbaşı",
+              "code": "02_04"
+            },
+            {
+              "name": "Gerger",
+              "code": "02_05"
+            },
+            {
+              "name": "Sincik",
+              "code": "02_06"
+            },
+            {
+              "name": "Çelikhan",
+              "code": "02_07"
+            },
+            {
+              "name": "Tut",
+              "code": "02_08"
+            },
+            {
+              "name": "Samsat",
+              "code": "02_09"
+            }
+          ]
+        },
+        {
+          "name": "Afyonkarahisar",
+          "code": "03",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "03_01"
+            },
+            {
+              "name": "Sandıklı",
+              "code": "03_02"
+            },
+            {
+              "name": "Dinar",
+              "code": "03_03"
+            },
+            {
+              "name": "Bolvadin",
+              "code": "03_04"
+            },
+            {
+              "name": "Sinanpaşa",
+              "code": "03_05"
+            },
+            {
+              "name": "Emirdağ",
+              "code": "03_06"
+            },
+            {
+              "name": "Şuhut",
+              "code": "03_07"
+            },
+            {
+              "name": "Çay",
+              "code": "03_08"
+            },
+            {
+              "name": "İhsaniye",
+              "code": "03_09"
+            },
+            {
+              "name": "İscehisar",
+              "code": "03_10"
+            },
+            {
+              "name": "Sultandağı",
+              "code": "03_11"
+            },
+            {
+              "name": "Çobanlar",
+              "code": "03_12"
+            },
+            {
+              "name": "Dazkırı",
+              "code": "03_13"
+            },
+            {
+              "name": "Başmakçı",
+              "code": "03_14"
+            },
+            {
+              "name": "Hocalar",
+              "code": "03_15"
+            },
+            {
+              "name": "Bayat",
+              "code": "03_16"
+            },
+            {
+              "name": "Evciler",
+              "code": "03_17"
+            },
+            {
+              "name": "Kızılören",
+              "code": "03_18"
+            }
+          ]
+        },
+        {
+          "name": "Ağrı",
+          "code": "04",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "04_01"
+            },
+            {
+              "name": "Patnos",
+              "code": "04_02"
+            },
+            {
+              "name": "Doğubayazıt",
+              "code": "04_03"
+            },
+            {
+              "name": "Diyadin",
+              "code": "04_04"
+            },
+            {
+              "name": "Eleşkirt",
+              "code": "04_05"
+            },
+            {
+              "name": "Tutak",
+              "code": "04_06"
+            },
+            {
+              "name": "Taşlıçay",
+              "code": "04_07"
+            },
+            {
+              "name": "Hamur",
+              "code": "04_08"
+            }
+          ]
+        },
+        {
+          "name": "Amasya",
+          "code": "05",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "05_01"
+            },
+            {
+              "name": "Merzifon",
+              "code": "05_02"
+            },
+            {
+              "name": "Suluova",
+              "code": "05_03"
+            },
+            {
+              "name": "Taşova",
+              "code": "05_04"
+            },
+            {
+              "name": "Göynücek",
+              "code": "05_05"
+            },
+            {
+              "name": "Hamamözü",
+              "code": "05_06"
+            }
+          ]
+        },
+        {
+          "name": "Ankara",
+          "code": "06",
+          "towns": [
+            {
+              "name": "Çankaya",
+              "code": "06_01"
+            },
+            {
+              "name": "Keçiören",
+              "code": "06_02"
+            },
+            {
+              "name": "Yenimahalle",
+              "code": "06_03"
+            },
+            {
+              "name": "Mamak",
+              "code": "06_04"
+            },
+            {
+              "name": "Etimesgut",
+              "code": "06_05"
+            },
+            {
+              "name": "Sincan",
+              "code": "06_06"
+            },
+            {
+              "name": "Altındağ",
+              "code": "06_07"
+            },
+            {
+              "name": "Pursaklar",
+              "code": "06_08"
+            },
+            {
+              "name": "Gölbaşı",
+              "code": "06_09"
+            },
+            {
+              "name": "Polatlı",
+              "code": "06_10"
+            },
+            {
+              "name": "Çubuk",
+              "code": "06_11"
+            },
+            {
+              "name": "Kahramankazan",
+              "code": "06_12"
+            },
+            {
+              "name": "Beypazarı",
+              "code": "06_13"
+            },
+            {
+              "name": "Haymana",
+              "code": "06_14"
+            },
+            {
+              "name": "Elmadağ",
+              "code": "06_15"
+            },
+            {
+              "name": "Akyurt",
+              "code": "06_16"
+            },
+            {
+              "name": "Şereflikoçhisar",
+              "code": "06_17"
+            },
+            {
+              "name": "Bala",
+              "code": "06_18"
+            },
+            {
+              "name": "Kızılcahamam",
+              "code": "06_19"
+            },
+            {
+              "name": "Nallıhan",
+              "code": "06_20"
+            },
+            {
+              "name": "Ayaş",
+              "code": "06_21"
+            },
+            {
+              "name": "Çamlıdere",
+              "code": "06_22"
+            },
+            {
+              "name": "Kalecik",
+              "code": "06_23"
+            },
+            {
+              "name": "Güdül",
+              "code": "06_24"
+            },
+            {
+              "name": "Evren",
+              "code": "06_25"
+            }
+          ]
+        },
+        {
+          "name": "Antalya",
+          "code": "07",
+          "towns": [
+            {
+              "name": "Kepez",
+              "code": "07_01"
+            },
+            {
+              "name": "Muratpaşa",
+              "code": "07_02"
+            },
+            {
+              "name": "Alanya",
+              "code": "07_03"
+            },
+            {
+              "name": "Manavgat",
+              "code": "07_04"
+            },
+            {
+              "name": "Konyaaltı",
+              "code": "07_05"
+            },
+            {
+              "name": "Serik",
+              "code": "07_06"
+            },
+            {
+              "name": "Aksu",
+              "code": "07_07"
+            },
+            {
+              "name": "Kumluca",
+              "code": "07_08"
+            },
+            {
+              "name": "Döşemealtı",
+              "code": "07_09"
+            },
+            {
+              "name": "Kaş",
+              "code": "07_10"
+            },
+            {
+              "name": "Korkuteli",
+              "code": "07_11"
+            },
+            {
+              "name": "Gazipaşa",
+              "code": "07_12"
+            },
+            {
+              "name": " Finike",
+              "code": "07_13"
+            },
+            {
+              "name": "Kemer",
+              "code": "07_14"
+            },
+            {
+              "name": "Elmalı",
+              "code": "07_15"
+            },
+            {
+              "name": "Demre",
+              "code": "07_16"
+            },
+            {
+              "name": "Akseki",
+              "code": "07_17"
+            },
+            {
+              "name": "Gündoğmuş",
+              "code": "07_18"
+            },
+            {
+              "name": "İbradi",
+              "code": "07_19"
+            }
+          ]
+        },
+        {
+          "name": "Artvin",
+          "code": "08",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "08_01"
+            },
+            {
+              "name": "Hopa",
+              "code": "08_02"
+            },
+            {
+              "name": "Borçka",
+              "code": "08_03"
+            },
+            {
+              "name": "Arhavi",
+              "code": "08_04"
+            },
+            {
+              "name": "Yusufeli",
+              "code": "08_05"
+            },
+            {
+              "name": "Şavşat",
+              "code": "08_06"
+            },
+            {
+              "name": "Aksu",
+              "code": "08_07"
+            },
+            {
+              "name": "Kumluca",
+              "code": "08_08"
+            },
+            {
+              "name": "Ardanuç",
+              "code": "08_09"
+            },
+            {
+              "name": "Kemalpaşa",
+              "code": "08_10"
+            },
+            {
+              "name": "Murgul",
+              "code": "08_11"
+            }
+          ]
+        },
+        {
+          "name": "Aydın",
+          "code": "09",
+          "towns": [
+            {
+              "name": "Efeler",
+              "code": "09_01"
+            },
+            {
+              "name": "Nazilli",
+              "code": "09_02"
+            },
+            {
+              "name": "Söke",
+              "code": "09_03"
+            },
+            {
+              "name": "Kuşadası",
+              "code": "09_04"
+            },
+            {
+              "name": "Didim",
+              "code": "09_05"
+            },
+            {
+              "name": "İncirliova",
+              "code": "09_06"
+            },
+            {
+              "name": "Çine",
+              "code": "09_07"
+            },
+            {
+              "name": "Germencik",
+              "code": "09_08"
+            },
+            {
+              "name": "Bozdoğan",
+              "code": "09_09"
+            },
+            {
+              "name": "Köşk",
+              "code": "09_10"
+            },
+            {
+              "name": "Kuyucak",
+              "code": "09_11"
+            },
+            {
+              "name": "Koçarlı",
+              "code": "09_12"
+            },
+            {
+              "name": "Sultanhisar",
+              "code": "09_13"
+            },
+            {
+              "name": "Karacasu",
+              "code": "09_14"
+            },
+            {
+              "name": "Buharkent",
+              "code": "09_15"
+            },
+            {
+              "name": "Yenipazar",
+              "code": "09_16"
+            },
+            {
+              "name": "Karpuzlu",
+              "code": "09_17"
+            }
+          ]
+        },
+        {
+          "name": "Balıkesir",
+          "code": "10",
+          "towns": [
+            {
+              "name": "Altıeylül",
+              "code": "10_01"
+            },
+            {
+              "name": "Karesi",
+              "code": "10_02"
+            },
+            {
+              "name": "Edremit",
+              "code": "10_03"
+            },
+            {
+              "name": "Bandırma",
+              "code": "10_04"
+            },
+            {
+              "name": "Gönen",
+              "code": "10_05"
+            },
+            {
+              "name": "Ayvalık",
+              "code": "10_06"
+            },
+            {
+              "name": "Burhaniye",
+              "code": "10_07"
+            },
+            {
+              "name": "Bigadiç",
+              "code": "10_08"
+            },
+            {
+              "name": "Susurluk",
+              "code": "10_09"
+            },
+            {
+              "name": "Dursunbey",
+              "code": "10_10"
+            },
+            {
+              "name": "Sındırgı",
+              "code": "10_11"
+            },
+            {
+              "name": "Erdek",
+              "code": "10_12"
+            },
+            {
+              "name": "İvrindi",
+              "code": "10_13"
+            },
+            {
+              "name": "Havran",
+              "code": "10_14"
+            },
+            {
+              "name": "Kepsut",
+              "code": "10_15"
+            },
+            {
+              "name": "Manyas",
+              "code": "10_16"
+            },
+            {
+              "name": "Savaştepe",
+              "code": "10_17"
+            },
+            {
+              "name": "Gömeç",
+              "code": "10_18"
+            },
+            {
+              "name": "Balya",
+              "code": "10_19"
+            },
+            {
+              "name": "Marmara",
+              "code": "10_20"
+            }
+          ]
+        },
+        {
+          "name": "Bilecik",
+          "code": "11",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "11_01"
+            },
+            {
+              "name": "Bozüyük",
+              "code": "11_02"
+            },
+            {
+              "name": "Osmaneli",
+              "code": "11_03"
+            },
+            {
+              "name": "Söğüt",
+              "code": "11_03"
+            },
+            {
+              "name": "Gölpazarı",
+              "code": "11_04"
+            },
+            {
+              "name": "Pazaryeri",
+              "code": "11_05"
+            },
+            {
+              "name": "İnhisar",
+              "code": "11_06"
+            },
+            {
+              "name": "Yenipazar",
+              "code": "11_07"
+            }
+          ]
+        },
+        {
+          "name": "Bingöl",
+          "code": "12",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "12_01"
+            },
+            {
+              "name": "Genç",
+              "code": "12_02"
+            },
+            {
+              "name": "Solhan",
+              "code": "12_03"
+            },
+            {
+              "name": "Karlıova",
+              "code": "12_04"
+            },
+            {
+              "name": "Adaklı",
+              "code": "12_05"
+            },
+            {
+              "name": "Kiğı",
+              "code": "12_06"
+            },
+            {
+              "name": "Yedisu",
+              "code": "12_07"
+            },
+            {
+              "name": "Yayladere",
+              "code": "12_08"
+            }
+          ]
+        },
+        {
+          "name": "Bitlis",
+          "code": "13",
+          "towns": [
+            {
+              "name": "Tatvan",
+              "code": "13_01"
+            },
+            {
+              "name": "Merkez",
+              "code": "13_02"
+            },
+            {
+              "name": "Güroymak",
+              "code": "13_03"
+            },
+            {
+              "name": "Ahlat",
+              "code": "13_04"
+            },
+            {
+              "name": "Hizan",
+              "code": "13_05"
+            },
+            {
+              "name": "Mutki",
+              "code": "13_06"
+            },
+            {
+              "name": "Adilcevaz",
+              "code": "13_07"
+            }
+          ]
+        },
+        {
+          "name": "Bolu",
+          "code": "14",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "14_01"
+            },
+            {
+              "name": "Gerede",
+              "code": "14_02"
+            },
+            {
+              "name": "Mudurnu",
+              "code": "14_03"
+            },
+            {
+              "name": "Göynük",
+              "code": "14_04"
+            },
+            {
+              "name": "Mengen",
+              "code": "14_05"
+            },
+            {
+              "name": "Yeniçağa",
+              "code": "14_06"
+            },
+            {
+              "name": "Dörtdivan",
+              "code": "14_07"
+            },
+            {
+              "name": "Seben",
+              "code": "14_08"
+            },
+            {
+              "name": "Kıbrıscık",
+              "code": "14_09"
+            }
+          ]
+        },
+        {
+          "name": "Burdur",
+          "code": "15",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "15_01"
+            },
+            {
+              "name": "Bucak",
+              "code": "15_02"
+            },
+            {
+              "name": "Gölhisar",
+              "code": "15_03"
+            },
+            {
+              "name": "Yeşilova",
+              "code": "15_04"
+            },
+            {
+              "name": "Çavdır",
+              "code": "15_05"
+            },
+            {
+              "name": "Tefenni",
+              "code": "15_06"
+            },
+            {
+              "name": "Ağlasun",
+              "code": "15_07"
+            },
+            {
+              "name": "Karamanlı",
+              "code": "15_08"
+            },
+            {
+              "name": "Altınyayla",
+              "code": "15_09"
+            },
+            {
+              "name": "Çeltikçi",
+              "code": "15_10"
+            },
+            {
+              "name": "Kemer",
+              "code": "15_11"
+            }
+          ]
+        },
+        {
+          "name": "Bursa",
+          "code": "16",
+          "towns": [
+            {
+              "name": "Osmangazi",
+              "code": "16_01"
+            },
+            {
+              "name": "Yıldırım",
+              "code": "16_02"
+            },
+            {
+              "name": "Nilüfer",
+              "code": "16_03"
+            },
+            {
+              "name": "İnegöl",
+              "code": "16_04"
+            },
+            {
+              "name": "Gemlik",
+              "code": "16_05"
+            },
+            {
+              "name": "Mustafakemalpa",
+              "code": "16_06"
+            },
+            {
+              "name": "Mudanya",
+              "code": "16_07"
+            },
+            {
+              "name": "Gürsu",
+              "code": "16_08"
+            },
+            {
+              "name": "Karacabey",
+              "code": "16_09"
+            },
+            {
+              "name": "Orhangazi",
+              "code": "16_10"
+            },
+            {
+              "name": "Kestel",
+              "code": "16_11"
+            },
+            {
+              "name": "Yenişehir",
+              "code": "16_12"
+            },
+            {
+              "name": "İznik",
+              "code": "16_13"
+            },
+            {
+              "name": "Orhaneli",
+              "code": "16_14"
+            },
+            {
+              "name": "Keles",
+              "code": "16_15"
+            },
+            {
+              "name": "Büyükorhan",
+              "code": "16_16"
+            },
+            {
+              "name": "Harmancık",
+              "code": "16_17"
+            }
+          ]
+        },
+        {
+          "name": "Çanakkale",
+          "code": "17",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "17_01"
+            },
+            {
+              "name": "Biga",
+              "code": "17_02"
+            },
+            {
+              "name": "Çan",
+              "code": "17_03"
+            },
+            {
+              "name": "Gelibolu",
+              "code": "17_04"
+            },
+            {
+              "name": "Ayvacık",
+              "code": "17_05"
+            },
+            {
+              "name": "Ezine",
+              "code": "17_06"
+            },
+            {
+              "name": "Yenice",
+              "code": "17_07"
+            },
+            {
+              "name": "Bayramiç",
+              "code": "17_08"
+            },
+            {
+              "name": "Lapseki",
+              "code": "17_09"
+            },
+            {
+              "name": "Gökçeada",
+              "code": "17_10"
+            },
+            {
+              "name": "Eceabat",
+              "code": "17_11"
+            },
+            {
+              "name": "Bozcaada",
+              "code": "17_12"
+            }
+          ]
+        },
+        {
+          "name": "Çankırı",
+          "code": "18",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "18_01"
+            },
+            {
+              "name": "Orta",
+              "code": "18_02"
+            },
+            {
+              "name": "Çerkeş",
+              "code": "18_03"
+            },
+            {
+              "name": "Ilgaz",
+              "code": "18_03"
+            },
+            {
+              "name": "Şabanözü",
+              "code": "18_04"
+            },
+            {
+              "name": "Kurşunlu",
+              "code": "18_05"
+            },
+            {
+              "name": "Yapraklı",
+              "code": "18_06"
+            },
+            {
+              "name": "Kızılırmak",
+              "code": "18_07"
+            },
+            {
+              "name": "Eldivan",
+              "code": "18_08"
+            },
+            {
+              "name": "Atkaracalar",
+              "code": "18_09"
+            },
+            {
+              "name": "Korgun",
+              "code": "18_10"
+            },
+            {
+              "name": "Bayramören",
+              "code": "18_11"
+            }
+          ]
+        },
+        {
+          "name": "Çorum",
+          "code": "19",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "19_01"
+            },
+            {
+              "name": "Sungurlu",
+              "code": "19_02"
+            },
+            {
+              "name": "Osmancık",
+              "code": "19_03"
+            },
+            {
+              "name": "İskilip",
+              "code": "19_04"
+            },
+            {
+              "name": "Alaca",
+              "code": "19_05"
+            },
+            {
+              "name": "Bayat",
+              "code": "19_05"
+            },
+            {
+              "name": "Kargı",
+              "code": "19_06"
+            },
+            {
+              "name": "Mecitözü",
+              "code": "19_07"
+            },
+            {
+              "name": "Ortaköy",
+              "code": "19_08"
+            },
+            {
+              "name": "Uğurludağ",
+              "code": "19_09"
+            },
+            {
+              "name": "Dodurga",
+              "code": "19_10"
+            },
+            {
+              "name": "Oğuzlar",
+              "code": "19_11"
+            },
+            {
+              "name": "Laçin",
+              "code": "19_12"
+            },
+            {
+              "name": "Boğazkale",
+              "code": "19_13"
+            }
+          ]
+        },
+        {
+          "name": "Denizli",
+          "code": "20",
+          "towns": [
+            {
+              "name": "Pamukkale",
+              "code": "20_01"
+            },
+            {
+              "name": "Merkezefendi",
+              "code": "20_02"
+            },
+            {
+              "name": "Çivril",
+              "code": "20_03"
+            },
+            {
+              "name": "Acıpayam",
+              "code": "20_04"
+            },
+            {
+              "name": "Tavas",
+              "code": "20_05"
+            },
+            {
+              "name": "Honaz",
+              "code": "20_06"
+            },
+            {
+              "name": "Sarayköy",
+              "code": "20_07"
+            },
+            {
+              "name": "Buldan",
+              "code": "20_08"
+            },
+            {
+              "name": "Kale",
+              "code": "20_09"
+            },
+            {
+              "name": "Çal",
+              "code": "20_10"
+            },
+            {
+              "name": "Çameli",
+              "code": "20_12"
+            },
+            {
+              "name": "Serinhisar",
+              "code": "20_13"
+            },
+            {
+              "name": "Bozkurt",
+              "code": "20_14"
+            },
+            {
+              "name": "Güney",
+              "code": "20_15"
+            },
+            {
+              "name": "Çardak",
+              "code": "20_16"
+            },
+            {
+              "name": "Bekilli",
+              "code": "20_17"
+            },
+            {
+              "name": "Beyağaç",
+              "code": "20_18"
+            },
+            {
+              "name": "Babadağ",
+              "code": "20_19"
+            },
+            {
+              "name": "Baklan",
+              "code": "20_20"
+            }
+          ]
+        },
+        {
+          "name": "Diyarbakır",
+          "code": "21",
+          "towns": [
+            {
+              "name": "Bağlar",
+              "code": "21_01"
+            },
+            {
+              "name": "Kayapınar",
+              "code": "21_02"
+            },
+            {
+              "name": "Yenişehir",
+              "code": "21_03"
+            },
+            {
+              "name": "Ergani",
+              "code": "21_04"
+            },
+            {
+              "name": "Bismil",
+              "code": "21_05"
+            },
+            {
+              "name": "Sur",
+              "code": "21_06"
+            },
+            {
+              "name": "Silvan",
+              "code": "21_07"
+            },
+            {
+              "name": "Çınar",
+              "code": "21_08"
+            },
+            {
+              "name": "Çermik",
+              "code": "21_09"
+            },
+            {
+              "name": "Dicle",
+              "code": "21_10"
+            },
+            {
+              "name": "Kulp",
+              "code": "21_11"
+            },
+            {
+              "name": "Hani",
+              "code": "21_12"
+            },
+            {
+              "name": "Lice",
+              "code": "21_13"
+            },
+            {
+              "name": "Eğil",
+              "code": "21_14"
+            },
+            {
+              "name": "Hazro",
+              "code": "21_15"
+            },
+            {
+              "name": "Kocaköy",
+              "code": "21_16"
+            },
+            {
+              "name": "Çüngüş",
+              "code": "21_17"
+            }
+          ]
+        },
+        {
+          "name": "Edirne",
+          "code": "22",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "22_01"
+            },
+            {
+              "name": "Keşan",
+              "code": "22_02"
+            },
+            {
+              "name": "Uzunköprü",
+              "code": "22_03"
+            },
+            {
+              "name": "İpsala",
+              "code": "22_04"
+            },
+            {
+              "name": "Havsa",
+              "code": "22_05"
+            },
+            {
+              "name": "Meriç",
+              "code": "22_06"
+            },
+            {
+              "name": "Enez",
+              "code": "22_07"
+            },
+            {
+              "name": "Süloğlu",
+              "code": "22_08"
+            },
+            {
+              "name": "Lalapaşa",
+              "code": "22_09"
+            }
+          ]
+        },
+        {
+          "name": "Elazığ",
+          "code": "23",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "23_01"
+            },
+            {
+              "name": "Kovancılar",
+              "code": "23_02"
+            },
+            {
+              "name": "Karakoçan",
+              "code": "23_03"
+            },
+            {
+              "name": "Palu",
+              "code": "23_04"
+            },
+            {
+              "name": "Baskil",
+              "code": "23_05"
+            },
+            {
+              "name": "Arıcak",
+              "code": "23_06"
+            },
+            {
+              "name": "Maden",
+              "code": "23_07"
+            },
+            {
+              "name": "Sivrice",
+              "code": "23_08"
+            },
+            {
+              "name": "Keban",
+              "code": "23_09"
+            },
+            {
+              "name": "Alacakaya",
+              "code": "23_10"
+            },
+            {
+              "name": "Ağın",
+              "code": "23_11"
+            }
+          ]
+        },
+        {
+          "name": "Erzincan",
+          "code": "24",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "24_01"
+            },
+            {
+              "name": "Tercan",
+              "code": "24_02"
+            },
+            {
+              "name": "Üzümlü",
+              "code": "24_03"
+            },
+            {
+              "name": "Refahiye",
+              "code": "24_04"
+            },
+            {
+              "name": "Çayırlı",
+              "code": "24_05"
+            },
+            {
+              "name": "İliç",
+              "code": "24_06"
+            },
+            {
+              "name": "Kemah",
+              "code": "24_07"
+            },
+            {
+              "name": "Kemaliye",
+              "code": "24_08"
+            },
+            {
+              "name": "Otlukbeli",
+              "code": "24_09"
+            }
+          ]
+        },
+        {
+          "name": "Erzurum",
+          "code": "25",
+          "towns": [
+            {
+              "name": "Yakutiye",
+              "code": "25_01"
+            },
+            {
+              "name": "Palandöken",
+              "code": "25_02"
+            },
+            {
+              "name": "Aziziye",
+              "code": "25_03"
+            },
+            {
+              "name": "Horasan",
+              "code": "25_04"
+            },
+            {
+              "name": "Oltu",
+              "code": "25_05"
+            },
+            {
+              "name": "Pasinler",
+              "code": "25_06"
+            },
+            {
+              "name": "Karayazı",
+              "code": "25_07"
+            },
+            {
+              "name": "Hınıs",
+              "code": "25_08"
+            },
+            {
+              "name": "Tekman",
+              "code": "25_09"
+            },
+            {
+              "name": "Aşkale",
+              "code": "25_10"
+            },
+            {
+              "name": "Karaçoban",
+              "code": "25_11"
+            },
+            {
+              "name": "Şenkaya",
+              "code": "25_12"
+            },
+            {
+              "name": "Çat",
+              "code": "25_13"
+            },
+            {
+              "name": "Tortum",
+              "code": "25_14"
+            },
+            {
+              "name": "Köprüköy",
+              "code": "25_15"
+            },
+            {
+              "name": "İspir",
+              "code": "25_16"
+            },
+            {
+              "name": "Narman",
+              "code": "25_17"
+            },
+            {
+              "name": "Uzundere",
+              "code": "25_18"
+            },
+            {
+              "name": "Olur",
+              "code": "25_19"
+            },
+            {
+              "name": "Pazaryolu",
+              "code": "25_20"
+            }
+          ]
+        },
+        {
+          "name": "Eskişehir",
+          "code": "26",
+          "towns": [
+            {
+              "name": "Odunpazarı",
+              "code": "26_01"
+            },
+            {
+              "name": "Tepebaşı",
+              "code": "26_02"
+            },
+            {
+              "name": "Sivrihisar",
+              "code": "26_03"
+            },
+            {
+              "name": "Çifteler",
+              "code": "26_04"
+            },
+            {
+              "name": "Seyitgazi",
+              "code": "26_05"
+            },
+            {
+              "name": "Alpu",
+              "code": "26_06"
+            },
+            {
+              "name": "Mihalıççık",
+              "code": "26_07"
+            },
+            {
+              "name": "Mahmudiye",
+              "code": "26_08"
+            },
+            {
+              "name": "Beylikova",
+              "code": "26_09"
+            },
+            {
+              "name": "İnönü",
+              "code": "26_10"
+            },
+            {
+              "name": "Günyüzü",
+              "code": "26_11"
+            },
+            {
+              "name": "Sarıcakaya",
+              "code": "26_12"
+            },
+            {
+              "name": "Mihalgazi",
+              "code": "26_13"
+            },
+            {
+              "name": "Han",
+              "code": "26_14"
+            }
+          ]
+        },
+        {
+          "name": "Gaziantep",
+          "code": "27",
+          "towns": [
+            {
+              "name": "Şahinbey",
+              "code": "27_01"
+            },
+            {
+              "name": "Şehitkamil",
+              "code": "27_02"
+            },
+            {
+              "name": "Nizip",
+              "code": "27_03"
+            },
+            {
+              "name": "İslahiye",
+              "code": "27_04"
+            },
+            {
+              "name": "Nurdağı",
+              "code": "27_05"
+            },
+            {
+              "name": "Araban",
+              "code": "27_06"
+            },
+            {
+              "name": "Oğuzeli",
+              "code": "27_07"
+            },
+            {
+              "name": "Yavuzeli",
+              "code": "27_08"
+            },
+            {
+              "name": "Karkamış",
+              "code": "27_09"
+            }
+          ]
+        },
+        {
+          "name": "Giresun",
+          "code": "28",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "28_01"
+            },
+            {
+              "name": "Bulancak",
+              "code": "28_02"
+            },
+            {
+              "name": "Espiye",
+              "code": "28_03"
+            },
+            {
+              "name": "Görele",
+              "code": "28_04"
+            },
+            {
+              "name": "Tirebolu",
+              "code": "28_05"
+            },
+            {
+              "name": "Şebinkarahisar",
+              "code": "28_06"
+            },
+            {
+              "name": "Keşap",
+              "code": "28_07"
+            },
+            {
+              "name": "Dereli",
+              "code": "28_08"
+            },
+            {
+              "name": "Yağlıdere",
+              "code": "28_09"
+            },
+            {
+              "name": "Piraziz",
+              "code": "28_10"
+            },
+            {
+              "name": "Eynesil",
+              "code": "28_11"
+            },
+            {
+              "name": "Alucra",
+              "code": "28_12"
+            },
+            {
+              "name": "Çamoluk",
+              "code": "28_13"
+            },
+            {
+              "name": "Güce",
+              "code": "28_14"
+            },
+            {
+              "name": "Doğankent",
+              "code": "28_15"
+            },
+            {
+              "name": "Çanakçı",
+              "code": "28_16"
+            }
+          ]
+        },
+        {
+          "name": "Gümüşhane",
+          "code": "29",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "29_01"
+            },
+            {
+              "name": "Kelkit",
+              "code": "29_02"
+            },
+            {
+              "name": "Şiran",
+              "code": "29_03"
+            },
+            {
+              "name": "Kürtün",
+              "code": "29_04"
+            },
+            {
+              "name": "Torul",
+              "code": "29_05"
+            },
+            {
+              "name": "Köse",
+              "code": "29_06"
+            }
+          ]
+        },
+        {
+          "name": "Hakkari",
+          "code": "30",
+          "towns": [
+            {
+              "name": "Yüksekova",
+              "code": "30_01"
+            },
+            {
+              "name": "Merkez",
+              "code": "30_02"
+            },
+            {
+              "name": "Şemdinli",
+              "code": "30_03"
+            },
+            {
+              "name": "Derecik",
+              "code": "30_04"
+            },
+            {
+              "name": "Çukurca",
+              "code": "30_05"
+            }
+          ]
+        },
+        {
+          "name": "Hatay",
+          "code": "31",
+          "towns": [
+            {
+              "name": "Antakya",
+              "code": "31_01"
+            },
+            {
+              "name": "İskenderun",
+              "code": "31_02"
+            },
+            {
+              "name": "Defne",
+              "code": "31_03"
+            },
+            {
+              "name": "Dörtyol",
+              "code": "31_04"
+            },
+            {
+              "name": "Samandağ",
+              "code": "31_05"
+            },
+            {
+              "name": "Kırıkhan",
+              "code": "31_06"
+            },
+            {
+              "name": "Reyhanlı",
+              "code": "31_07"
+            },
+            {
+              "name": "Arsuz",
+              "code": "31_08"
+            },
+            {
+              "name": "Altınözü",
+              "code": "31_09"
+            },
+            {
+              "name": "Hassa",
+              "code": "31_10"
+            },
+            {
+              "name": "Payas",
+              "code": "31_11"
+            },
+            {
+              "name": "Erzin",
+              "code": "31_12"
+            },
+            {
+              "name": "Yayladağı",
+              "code": "31_13"
+            },
+            {
+              "name": "Belen",
+              "code": "31_14"
+            },
+            {
+              "name": "Kumlu",
+              "code": "31_15"
+            }
+          ]
+        },
+        {
+          "name": "Isparta",
+          "code": "32",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "32_01"
+            },
+            {
+              "name": "Yalvaç",
+              "code": "32_02"
+            },
+            {
+              "name": "Eğirdir",
+              "code": "32_03"
+            },
+            {
+              "name": "Şarkikaraağaç",
+              "code": "32_04"
+            },
+            {
+              "name": "Gelendost",
+              "code": "32_05"
+            },
+            {
+              "name": "Keçiborlu",
+              "code": "32_06"
+            },
+            {
+              "name": "Senirkent",
+              "code": "32_07"
+            },
+            {
+              "name": "Sütçüler",
+              "code": "32_08"
+            },
+            {
+              "name": "Gönen",
+              "code": "32_09"
+            },
+            {
+              "name": "Uluborlu",
+              "code": "32_10"
+            },
+            {
+              "name": "Atabey",
+              "code": "32_11"
+            },
+            {
+              "name": "Aksu",
+              "code": "32_12"
+            },
+            {
+              "name": "Yenişarbademli",
+              "code": "32_13"
+            }
+          ]
+        },
+        {
+          "name": "Mersin",
+          "code": "33",
+          "towns": [
+            {
+              "name": "Tarsus",
+              "code": "33_01"
+            },
+            {
+              "name": "Toroslar",
+              "code": "33_02"
+            },
+            {
+              "name": "Akdeniz",
+              "code": "33_03"
+            },
+            {
+              "name": "Yenişehir",
+              "code": "33_04"
+            },
+            {
+              "name": "Mezitli",
+              "code": "33_05"
+            },
+            {
+              "name": "Erdemli",
+              "code": "33_06"
+            },
+            {
+              "name": "Silifke",
+              "code": "33_07"
+            },
+            {
+              "name": "Anamur",
+              "code": "33_08"
+            },
+            {
+              "name": "Mut",
+              "code": "33_09"
+            },
+            {
+              "name": "Bozyazı",
+              "code": "33_10"
+            },
+            {
+              "name": "Gülnar",
+              "code": "33_11"
+            },
+            {
+              "name": "Aydıncık",
+              "code": "33_11"
+            },
+            {
+              "name": "Çamlıyayla",
+              "code": "33_12"
+            }
+          ]
+        },
+        {
+          "name": "İstanbul",
+          "code": "34",
+          "towns": [
+            {
+              "name": "Esenyurt",
+              "code": "34_01"
+            },
+            {
+              "name": "Küçükçekmece",
+              "code": "34_02"
+            },
+            {
+              "name": "Bağcılar",
+              "code": "34_03"
+            },
+            {
+              "name": "Pendik",
+              "code": "34_04"
+            },
+            {
+              "name": "Ümraniye",
+              "code": "34_05"
+            },
+            {
+              "name": "Bahçelievler",
+              "code": "34_06"
+            },
+            {
+              "name": "Üsküdar",
+              "code": "34_07"
+            },
+            {
+              "name": "Sultangazi",
+              "code": "34_08"
+            },
+            {
+              "name": "Maltepe",
+              "code": "34_09"
+            },
+            {
+              "name": "Gaziosmanpaşa",
+              "code": "34_10"
+            },
+            {
+              "name": "Kartal",
+              "code": "34_11"
+            },
+            {
+              "name": "Kadıköy",
+              "code": "34_12"
+            },
+            {
+              "name": "Esenler",
+              "code": "34_13"
+            },
+            {
+              "name": "Kağıthane",
+              "code": "34_14"
+            },
+            {
+              "name": "Fatih",
+              "code": "34_15"
+            },
+            {
+              "name": "Avcılar",
+              "code": "34_16"
+            },
+            {
+              "name": "Başakşehir",
+              "code": "34_17"
+            },
+            {
+              "name": "Ataşehir",
+              "code": "34_18"
+            },
+            {
+              "name": "Sancaktepe",
+              "code": "34_19"
+            },
+            {
+              "name": "Eyüp",
+              "code": "34_20"
+            },
+            {
+              "name": "Sarıyer",
+              "code": "34_21"
+            },
+            {
+              "name": "Beylikdüzü",
+              "code": "34_22"
+            },
+            {
+              "name": "Sultanbeyli",
+              "code": "34_23"
+            },
+            {
+              "name": "Güngören",
+              "code": "34_24"
+            },
+            {
+              "name": "Zeytinburnu",
+              "code": "34_25"
+            },
+            {
+              "name": "Şişli",
+              "code": "34_26"
+            },
+            {
+              "name": "Bayrampaşa",
+              "code": "34_27"
+            },
+            {
+              "name": "Arnavutköy",
+              "code": "34_28"
+            },
+            {
+              "name": "Tuzla",
+              "code": "34_29"
+            },
+            {
+              "name": "Çekmeköy",
+              "code": "34_30"
+            },
+            {
+              "name": "Büyükçekmece",
+              "code": "34_31"
+            },
+            {
+              "name": "Beykoz",
+              "code": "34_32"
+            },
+            {
+              "name": "Beyoğlu",
+              "code": "34_33"
+            },
+            {
+              "name": "Bakırköy",
+              "code": "34_34"
+            },
+            {
+              "name": "Silivri",
+              "code": "34_35"
+            },
+            {
+              "name": "Beşiktaş",
+              "code": "34_36"
+            },
+            {
+              "name": "Çatalca",
+              "code": "34_37"
+            },
+            {
+              "name": "Şile",
+              "code": "34_38"
+            },
+            {
+              "name": "Adalar",
+              "code": "34_39"
+            }
+          ]
+        },
+        {
+          "name": "İzmir",
+          "code": "35",
+          "towns": [
+            {
+              "name": "Buca",
+              "code": "35_01"
+            },
+            {
+              "name": "Karabağlar",
+              "code": "35_02"
+            },
+            {
+              "name": "Bornova",
+              "code": "35_03"
+            },
+            {
+              "name": "Konak",
+              "code": "35_04"
+            },
+            {
+              "name": "Karşıyaka",
+              "code": "35_05"
+            },
+            {
+              "name": "Bayraklı",
+              "code": "35_06"
+            },
+            {
+              "name": "Çiğli",
+              "code": "35_07"
+            },
+            {
+              "name": "Torbalı",
+              "code": "35_08"
+            },
+            {
+              "name": "Menemen",
+              "code": "35_09"
+            },
+            {
+              "name": "Gaziemir",
+              "code": "35_10"
+            },
+            {
+              "name": "Ödemiş",
+              "code": "35_11"
+            },
+            {
+              "name": "Kemalpaşa",
+              "code": "35_12"
+            },
+            {
+              "name": "Bergama",
+              "code": "35_13"
+            },
+            {
+              "name": "Aliağa",
+              "code": "35_14"
+            },
+            {
+              "name": "Menderes",
+              "code": "35_15"
+            },
+            {
+              "name": "Tire",
+              "code": "35_16"
+            },
+            {
+              "name": "Balçova",
+              "code": "35_17"
+            },
+            {
+              "name": "Urla",
+              "code": "35_18"
+            },
+            {
+              "name": "Narlıdere",
+              "code": "35_19"
+            },
+            {
+              "name": "Dikili",
+              "code": "35_20"
+            },
+            {
+              "name": "Kiraz",
+              "code": "35_21"
+            },
+            {
+              "name": "Seferihisar",
+              "code": "35_22"
+            },
+            {
+              "name": "Çeşme",
+              "code": "35_23"
+            },
+            {
+              "name": "Bayındır",
+              "code": "35_24"
+            },
+            {
+              "name": "Selçuk",
+              "code": "35_25"
+            },
+            {
+              "name": "Foça",
+              "code": "35_26"
+            },
+            {
+              "name": "Güzelbahçe",
+              "code": "35_27"
+            },
+            {
+              "name": "Kınık",
+              "code": "35_28"
+            },
+            {
+              "name": "Beydağ",
+              "code": "35_29"
+            },
+            {
+              "name": "Karaburun",
+              "code": "35_30"
+            }
+          ]
+        },
+        {
+          "name": "Kars",
+          "code": "36",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "36_01"
+            },
+            {
+              "name": "Kağızman",
+              "code": "36_02"
+            },
+            {
+              "name": "Sarıkamış",
+              "code": "36_03"
+            },
+            {
+              "name": "Selim",
+              "code": "36_04"
+            },
+            {
+              "name": "Digor",
+              "code": "36_05"
+            },
+            {
+              "name": "Arpaçay",
+              "code": "36_06"
+            },
+            {
+              "name": "Akyaka",
+              "code": "36_07"
+            },
+            {
+              "name": "Susuz",
+              "code": "36_08"
+            }
+          ]
+        },
+        {
+          "name": "Kastamonu",
+          "code": "37",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "37_01"
+            },
+            {
+              "name": "Tosya",
+              "code": "37_02"
+            },
+            {
+              "name": "Taşköprü",
+              "code": "37_03"
+            },
+            {
+              "name": "Cide",
+              "code": "37_04"
+            },
+            {
+              "name": "İnebolu",
+              "code": "37_05"
+            },
+            {
+              "name": "Araç",
+              "code": "37_06"
+            },
+            {
+              "name": "Bozkurt",
+              "code": "37_08"
+            },
+            {
+              "name": "Daday",
+              "code": "37_09"
+            },
+            {
+              "name": "Azdavay",
+              "code": "37_10"
+            },
+            {
+              "name": "Çatalzeytin",
+              "code": "37_11"
+            },
+            {
+              "name": "Doğanyurt",
+              "code": "37_12"
+            },
+            {
+              "name": "Küre",
+              "code": "37_13"
+            },
+            {
+              "name": "Pınarbaşı",
+              "code": "37_14"
+            },
+            {
+              "name": "İhsangazi",
+              "code": "37_15"
+            },
+            {
+              "name": "Şenpazar",
+              "code": "37_16"
+            },
+            {
+              "name": "Abana",
+              "code": "37_17"
+            },
+            {
+              "name": "Hanönü",
+              "code": "37_18"
+            },
+            {
+              "name": "Seydiler",
+              "code": "37_19"
+            },
+            {
+              "name": "Ağlı",
+              "code": "37_20"
+            }
+          ]
+        },
+        {
+          "name": "Kayseri",
+          "code": "38",
+          "towns": [
+            {
+              "name": "Melikgazi",
+              "code": "38_01"
+            },
+            {
+              "name": "Kocasinan",
+              "code": "38_02"
+            },
+            {
+              "name": "Talas",
+              "code": "38_03"
+            },
+            {
+              "name": "Develi",
+              "code": "38_04"
+            },
+            {
+              "name": "Yahyalı",
+              "code": "38_05"
+            },
+            {
+              "name": "Bünyan",
+              "code": "38_06"
+            },
+            {
+              "name": "Pınarbaşı",
+              "code": "38_07"
+            },
+            {
+              "name": "Tomarza",
+              "code": "38_08"
+            },
+            {
+              "name": "Yeşilhisar",
+              "code": "38_09"
+            },
+            {
+              "name": "Sarıoğlan",
+              "code": "38_10"
+            },
+            {
+              "name": "Hacılar",
+              "code": "38_11"
+            },
+            {
+              "name": "Sarız",
+              "code": "38_12"
+            },
+            {
+              "name": "Felahiye",
+              "code": "38_13"
+            },
+            {
+              "name": "Akkışla",
+              "code": "38_14"
+            },
+            {
+              "name": "Özvatan",
+              "code": "38_15"
+            }
+          ]
+        },
+        {
+          "name": "Kırklareli",
+          "code": "39",
+          "towns": [
+            {
+              "name": "Lüleburgaz",
+              "code": "39_01"
+            },
+            {
+              "name": "Merkez",
+              "code": "39_02"
+            },
+            {
+              "name": "Babaeski",
+              "code": "39_03"
+            },
+            {
+              "name": "Vize",
+              "code": "39_04"
+            },
+            {
+              "name": "Pınarhisar",
+              "code": "39_05"
+            },
+            {
+              "name": "Demirköy",
+              "code": "39_06"
+            },
+            {
+              "name": "Pehlivanköy",
+              "code": "39_07"
+            },
+            {
+              "name": "Kofçaz",
+              "code": "39_08"
+            }
+          ]
+        },
+        {
+          "name": "Kırşehir",
+          "code": "40",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "40_01"
+            },
+            {
+              "name": "Kaman",
+              "code": "40_02"
+            },
+            {
+              "name": "Mucur",
+              "code": "40_03"
+            },
+            {
+              "name": "Çiçekdağı",
+              "code": "40_04"
+            },
+            {
+              "name": "Akpınar",
+              "code": "40_05"
+            },
+            {
+              "name": "Boztepe",
+              "code": "40_06"
+            },
+            {
+              "name": "Akçakent",
+              "code": "40_07"
+            }
+          ]
+        },
+        {
+          "name": "Kocaeli",
+          "code": "41",
+          "towns": [
+            {
+              "name": "Gebze",
+              "code": "41_01"
+            },
+            {
+              "name": "İzmit",
+              "code": "41_02"
+            },
+            {
+              "name": "Darıca",
+              "code": "41_03"
+            },
+            {
+              "name": "Körfez",
+              "code": "41_04"
+            },
+            {
+              "name": "Gölcük",
+              "code": "41_05"
+            },
+            {
+              "name": "Derince",
+              "code": "41_06"
+            },
+            {
+              "name": "Çayırova",
+              "code": "41_07"
+            },
+            {
+              "name": "Kartepe",
+              "code": "41_08"
+            },
+            {
+              "name": "Başiskele",
+              "code": "41_09"
+            },
+            {
+              "name": "Karamürsel",
+              "code": "41_10"
+            },
+            {
+              "name": "Kandıra",
+              "code": "41_11"
+            },
+            {
+              "name": "Dilovası",
+              "code": "41_12"
+            }
+          ]
+        },
+        {
+          "name": "Konya",
+          "code": "42",
+          "towns": [
+            {
+              "name": "Selçuklu",
+              "code": "42_01"
+            },
+            {
+              "name": "Meram",
+              "code": "42_02"
+            },
+            {
+              "name": "Karatay",
+              "code": "42_03"
+            },
+            {
+              "name": "Ereğli",
+              "code": "42_04"
+            },
+            {
+              "name": "Akşehir",
+              "code": "42_05"
+            },
+            {
+              "name": "Beyşehir",
+              "code": "42_06"
+            },
+            {
+              "name": "Çumra",
+              "code": "42_07"
+            },
+            {
+              "name": "Seydişehir",
+              "code": "42_08"
+            },
+            {
+              "name": "Ilgın",
+              "code": "42_09"
+            },
+            {
+              "name": "Cihanbeyli",
+              "code": "42_10"
+            },
+            {
+              "name": "Kulu",
+              "code": "42_11"
+            },
+            {
+              "name": "Karapınar",
+              "code": "42_12"
+            },
+            {
+              "name": "Kadınhanı",
+              "code": "4213"
+            },
+            {
+              "name": "Sarayönü",
+              "code": "42_14"
+            },
+            {
+              "name": "Bozkır",
+              "code": "42_15"
+            },
+            {
+              "name": "Yunak",
+              "code": "42_16"
+            },
+            {
+              "name": "Hüyük",
+              "code": "42_17"
+            },
+            {
+              "name": "Doğanhisar",
+              "code": "42_18"
+            },
+            {
+              "name": "Altınekin",
+              "code": "42_19"
+            },
+            {
+              "name": "Hadim",
+              "code": "42_20"
+            },
+            {
+              "name": "Çeltik",
+              "code": "42_21"
+            },
+            {
+              "name": "Güneysınır",
+              "code": "42_22"
+            },
+            {
+              "name": "Emirgazi",
+              "code": "42_23"
+            },
+            {
+              "name": "Taşkent",
+              "code": "42_24"
+            },
+            {
+              "name": "Tuzlukçu",
+              "code": "42_25"
+            },
+            {
+              "name": "Derebucak",
+              "code": "42_26"
+            },
+            {
+              "name": "Akören",
+              "code": "42_27"
+            },
+            {
+              "name": "Ahırlı",
+              "code": "42_28"
+            },
+            {
+              "name": "Derbent",
+              "code": "42_29"
+            },
+            {
+              "name": "Halkapınar",
+              "code": "42_30"
+            },
+            {
+              "name": "Yalıhüyük",
+              "code": "42_31"
+            }
+          ]
+        },
+        {
+          "name": "Kütahya",
+          "code": "43",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "43_01"
+            },
+            {
+              "name": "Tavşanlı",
+              "code": "43_02"
+            },
+            {
+              "name": "Simav",
+              "code": "43_03"
+            },
+            {
+              "name": "Gediz",
+              "code": "43_04"
+            },
+            {
+              "name": "Emet",
+              "code": "43_05"
+            },
+            {
+              "name": "Altıntaş",
+              "code": "43_06"
+            },
+            {
+              "name": "Domaniç",
+              "code": "43_07"
+            },
+            {
+              "name": "Hisarcık",
+              "code": "43_08"
+            },
+            {
+              "name": "Aslanapa",
+              "code": "43_09"
+            },
+            {
+              "name": "Çavdarhisar",
+              "code": "43_10"
+            },
+            {
+              "name": "Şaphane",
+              "code": "43_11"
+            },
+            {
+              "name": "Pazarlar",
+              "code": "43_12"
+            },
+            {
+              "name": "Dumlupınar",
+              "code": "43_13"
+            }
+          ]
+        },
+        {
+          "name": "Malatya",
+          "code": "44",
+          "towns": [
+            {
+              "name": "Yeşilyurt",
+              "code": "44_01"
+            },
+            {
+              "name": "Battalgazi",
+              "code": "44_02"
+            },
+            {
+              "name": "Doğanşehir",
+              "code": "44_03"
+            },
+            {
+              "name": "Akçadağ",
+              "code": "44_04"
+            },
+            {
+              "name": "Darende",
+              "code": "44_05"
+            },
+            {
+              "name": "Hekimhan",
+              "code": "44_06"
+            },
+            {
+              "name": "Yazıhan",
+              "code": "44_07"
+            },
+            {
+              "name": "Pütürge",
+              "code": "44_08"
+            },
+            {
+              "name": "Arapgir",
+              "code": "44_09"
+            },
+            {
+              "name": "Kuluncak",
+              "code": "44_10"
+            },
+            {
+              "name": "Arguvan",
+              "code": "44_11"
+            },
+            {
+              "name": "Kale",
+              "code": "44_12"
+            },
+            {
+              "name": "Doğanyol",
+              "code": "44_13"
+            }
+          ]
+        },
+        {
+          "name": "Manisa",
+          "code": "45",
+          "towns": [
+            {
+              "name": "Yunusemre",
+              "code": "45_01"
+            },
+            {
+              "name": "Akhisar",
+              "code": "45_02"
+            },
+            {
+              "name": "Şehzadeler",
+              "code": "45_03"
+            },
+            {
+              "name": "Turgutlu",
+              "code": "45_04"
+            },
+            {
+              "name": "Salihli",
+              "code": "45_05"
+            },
+            {
+              "name": "Soma",
+              "code": "45_06"
+            },
+            {
+              "name": "Alaşehir",
+              "code": "45_07"
+            },
+            {
+              "name": "Saruhanlı",
+              "code": "45_08"
+            },
+            {
+              "name": "Kula",
+              "code": "45_09"
+            },
+            {
+              "name": "Demirci",
+              "code": "45_10"
+            },
+            {
+              "name": "Kırıkağaç",
+              "code": "45_11"
+            },
+            {
+              "name": "Sarıgöl",
+              "code": "45_12"
+            },
+            {
+              "name": "Gördes",
+              "code": "45_13"
+            },
+            {
+              "name": "Selendi",
+              "code": "45_14"
+            },
+            {
+              "name": "Ahmetli",
+              "code": "45_15"
+            },
+            {
+              "name": "Gölmarmara",
+              "code": "45_16"
+            },
+            {
+              "name": "Köprübaşı",
+              "code": "45_17"
+            }
+          ]
+        },
+        {
+          "name": "Kahramanmaraş",
+          "code": "46",
+          "towns": [
+            {
+              "name": "Onikişubat",
+              "code": "46_01"
+            },
+            {
+              "name": "Dulkadiroğlu",
+              "code": "46_02"
+            },
+            {
+              "name": "Elbistan",
+              "code": "46_03"
+            },
+            {
+              "name": "Afşin",
+              "code": "46_04"
+            },
+            {
+              "name": "Türkoğlu",
+              "code": "46_05"
+            },
+            {
+              "name": "Pazarcık",
+              "code": "46_06"
+            },
+            {
+              "name": "Göksun",
+              "code": "46_07"
+            },
+            {
+              "name": "Andırın",
+              "code": "46_08"
+            },
+            {
+              "name": "Çağlayancerit",
+              "code": "46_09"
+            },
+            {
+              "name": "Nurhak",
+              "code": "46_10"
+            },
+            {
+              "name": "Ekinözü",
+              "code": "46_11"
+            }
+          ]
+        },
+        {
+          "name": "Mardin",
+          "code": "47",
+          "towns": [
+            {
+              "name": "Kızıltepe",
+              "code": "47_01"
+            },
+            {
+              "name": "Artuklu",
+              "code": "47_02"
+            },
+            {
+              "name": "Midyat",
+              "code": "47_03"
+            },
+            {
+              "name": "Nusaybin",
+              "code": "47_04"
+            },
+            {
+              "name": "Derik",
+              "code": "47_05"
+            },
+            {
+              "name": "Mazıdağı",
+              "code": "47_06"
+            },
+            {
+              "name": "Dargeçit",
+              "code": "47_07"
+            },
+            {
+              "name": "Savur",
+              "code": "47_08"
+            },
+            {
+              "name": "Yeşilli",
+              "code": "47_09"
+            },
+            {
+              "name": "Ömerli",
+              "code": "47_10"
+            }
+          ]
+        },
+        {
+          "name": "Muğla",
+          "code": "48",
+          "towns": [
+            {
+              "name": "Bodrum",
+              "code": "48_01"
+            },
+            {
+              "name": "Fethiye",
+              "code": "48_02"
+            },
+            {
+              "name": "Milas",
+              "code": "48_03"
+            },
+            {
+              "name": "Menteşe",
+              "code": "48_04"
+            },
+            {
+              "name": "Marmaris",
+              "code": "48_05"
+            },
+            {
+              "name": "Seydikemer",
+              "code": "48_06"
+            },
+            {
+              "name": "Ortaca",
+              "code": "48_07"
+            },
+            {
+              "name": "Yatağan",
+              "code": "48_08"
+            },
+            {
+              "name": "Dalaman",
+              "code": "48_09"
+            },
+            {
+              "name": "Köyceğiz",
+              "code": "48_10"
+            },
+            {
+              "name": "Ula",
+              "code": "48_11"
+            },
+            {
+              "name": "Datça",
+              "code": "48_12"
+            },
+            {
+              "name": "Kavaklıdere",
+              "code": "48_13"
+            }
+          ]
+        },
+        {
+          "name": "Muş",
+          "code": "49",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "49_01"
+            },
+            {
+              "name": "Bulanık",
+              "code": "49_02"
+            },
+            {
+              "name": "Malazgirt",
+              "code": "49_03"
+            },
+            {
+              "name": "Varto",
+              "code": "49_04"
+            },
+            {
+              "name": "Korkut",
+              "code": "49_05"
+            },
+            {
+              "name": "Hasköy",
+              "code": "49_06"
+            }
+          ]
+        },
+        {
+          "name": "Nevşehir",
+          "code": "50",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "50_01"
+            },
+            {
+              "name": "Ürgüp",
+              "code": "50_02"
+            },
+            {
+              "name": "Avanos",
+              "code": "50_03"
+            },
+            {
+              "name": "Gülşehir",
+              "code": "50_04"
+            },
+            {
+              "name": "Derinkuyu",
+              "code": "50_05"
+            },
+            {
+              "name": "Acıgöl",
+              "code": "50_06"
+            },
+            {
+              "name": "Kozaklı",
+              "code": "50_07"
+            },
+            {
+              "name": "Hacıbektaş",
+              "code": "50_08"
+            }
+          ]
+        },
+        {
+          "name": "Niğde",
+          "code": "51",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "51_01"
+            },
+            {
+              "name": "Bor",
+              "code": "51_02"
+            },
+            {
+              "name": "Çiftlik",
+              "code": "51_03"
+            },
+            {
+              "name": "Ulukışla",
+              "code": "51_04"
+            },
+            {
+              "name": "Altunhisar",
+              "code": "51_05"
+            },
+            {
+              "name": "Çamardı",
+              "code": "51_06"
+            }
+          ]
+        },
+        {
+          "name": "Ordu",
+          "code": "52",
+          "towns": [
+            {
+              "name": "Altınordu",
+              "code": "52_01"
+            },
+            {
+              "name": "Ünye",
+              "code": "52_02"
+            },
+            {
+              "name": "Fatsa",
+              "code": "52_03"
+            },
+            {
+              "name": "Perşembe",
+              "code": "52_04"
+            },
+            {
+              "name": "Kumru",
+              "code": "52_05"
+            },
+            {
+              "name": "Korgan",
+              "code": "52_06"
+            },
+            {
+              "name": "Gölköy",
+              "code": "52_07"
+            },
+            {
+              "name": "Ulubey",
+              "code": "52_08"
+            },
+            {
+              "name": "Mesudiye",
+              "code": "52_09"
+            },
+            {
+              "name": "Akkuş",
+              "code": "52_10"
+            },
+            {
+              "name": "Aybastı",
+              "code": "52_11"
+            },
+            {
+              "name": "Gürgentepe",
+              "code": "52_12"
+            },
+            {
+              "name": "İkizce",
+              "code": "52_13"
+            },
+            {
+              "name": "Çatalpınar",
+              "code": "52_14"
+            },
+            {
+              "name": "Çaybaşı",
+              "code": "52_15"
+            },
+            {
+              "name": "Çamaş",
+              "code": "52_16"
+            },
+            {
+              "name": "Kabataş",
+              "code": "52_17"
+            },
+            {
+              "name": "Kabadüz",
+              "code": "52_18"
+            },
+            {
+              "name": "Gülyalı",
+              "code": "52_19"
+            }
+          ]
+        },
+        {
+          "name": "Rize",
+          "code": "53",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "53_01"
+            },
+            {
+              "name": "Çayeli",
+              "code": "53_02"
+            },
+            {
+              "name": "Ardeşen",
+              "code": "53_03"
+            },
+            {
+              "name": "Pazar",
+              "code": "53_04"
+            },
+            {
+              "name": "Fındıklı",
+              "code": "53_05"
+            },
+            {
+              "name": "Kalkandere",
+              "code": "53_06"
+            },
+            {
+              "name": "Güneysu",
+              "code": "53_07"
+            },
+            {
+              "name": "İyidere",
+              "code": "53_08"
+            },
+            {
+              "name": "İkizdere",
+              "code": "53_09"
+            },
+            {
+              "name": "Derepazarı",
+              "code": "53_10"
+            },
+            {
+              "name": "Çamlıhemşin",
+              "code": "53_11"
+            },
+            {
+              "name": "Hemşin",
+              "code": "53_12"
+            }
+          ]
+        },
+        {
+          "name": "Sakarya",
+          "code": "54",
+          "towns": [
+            {
+              "name": "Adapazarı",
+              "code": "54_01"
+            },
+            {
+              "name": "Serdivan",
+              "code": "54_02"
+            },
+            {
+              "name": "Akyazı",
+              "code": "54_03"
+            },
+            {
+              "name": "Erenler",
+              "code": "54_04"
+            },
+            {
+              "name": "Hendek",
+              "code": "54_05"
+            },
+            {
+              "name": "Karasu",
+              "code": "54_06"
+            },
+            {
+              "name": "Geyve",
+              "code": "54_07"
+            },
+            {
+              "name": "Arifiye",
+              "code": "54_08"
+            },
+            {
+              "name": "Sapanca",
+              "code": "54_09"
+            },
+            {
+              "name": "Pamukova",
+              "code": "54_10"
+            },
+            {
+              "name": "Ferizli",
+              "code": "54_11"
+            },
+            {
+              "name": "Kocaali",
+              "code": "54_12"
+            },
+            {
+              "name": "Kaynarca",
+              "code": "54_13"
+            },
+            {
+              "name": "Söğütlü",
+              "code": "54_14"
+            },
+            {
+              "name": "Karapürçek",
+              "code": "54_15"
+            },
+            {
+              "name": "Taraklı",
+              "code": "54_16"
+            }
+          ]
+        },
+        {
+          "name": "Samsun",
+          "code": "55",
+          "towns": [
+            {
+              "name": "İlkadım",
+              "code": "55_01"
+            },
+            {
+              "name": "Atakum",
+              "code": "55_02"
+            },
+            {
+              "name": "Bafra",
+              "code": "55_03"
+            },
+            {
+              "name": "Çarşamba",
+              "code": "55_04"
+            },
+            {
+              "name": "Canik",
+              "code": "55_05"
+            },
+            {
+              "name": "Vezirköprü",
+              "code": "55_06"
+            },
+            {
+              "name": "Terme",
+              "code": "55_07"
+            },
+            {
+              "name": "Tekkeköy",
+              "code": "55_08"
+            },
+            {
+              "name": "Havza",
+              "code": "55_09"
+            },
+            {
+              "name": "19 Mayıs",
+              "code": "55_10"
+            },
+            {
+              "name": "Alaçam",
+              "code": "55_11"
+            },
+            {
+              "name": "Salıpazarı",
+              "code": "55_12"
+            },
+            {
+              "name": "Ayvacık",
+              "code": "55_13"
+            },
+            {
+              "name": "Kavak",
+              "code": "55_14"
+            },
+            {
+              "name": "Asarcık",
+              "code": "55_15"
+            },
+            {
+              "name": "Ladik",
+              "code": "55_16"
+            },
+            {
+              "name": "Yakakent",
+              "code": "55_17"
+            }
+          ]
+        },
+
+        {
+          "name": "Siirt",
+          "code": "56",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "56_01"
+            },
+            {
+              "name": "Kurtalan",
+              "code": "56_02"
+            },
+            {
+              "name": "Pervari",
+              "code": "56_03"
+            },
+            {
+              "name": "Baykan",
+              "code": "56_04"
+            },
+            {
+              "name": "Şirvan",
+              "code": "56_05"
+            },
+            {
+              "name": "Eruh",
+              "code": "56_06"
+            },
+            {
+              "name": "Tillo",
+              "code": "56_07"
+            }
+          ]
+        },
+
+        {
+          "name": "Sinop",
+          "code": "57",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "57_01"
+            },
+            {
+              "name": "Boyabat",
+              "code": "57_02"
+            },
+            {
+              "name": "Gerze",
+              "code": "57_03"
+            },
+            {
+              "name": "Ayancık",
+              "code": "57_04"
+            },
+            {
+              "name": "Durağan",
+              "code": "57_05"
+            },
+            {
+              "name": "Türkeli",
+              "code": "57_06"
+            },
+            {
+              "name": "Erfelek",
+              "code": "57_07"
+            },
+            {
+              "name": "Saraydüzü",
+              "code": "57_08"
+            },
+            {
+              "name": "Dikmen",
+              "code": "57_09"
+            }
+          ]
+        },
+
+        {
+          "name": "Sivas",
+          "code": "58",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "58_01"
+            },
+            {
+              "name": "Şarkışla",
+              "code": "58_02"
+            },
+            {
+              "name": "Yıldızeli",
+              "code": "58_03"
+            },
+            {
+              "name": "Suşehri",
+              "code": "58_04"
+            },
+            {
+              "name": "Gemerek",
+              "code": "58_05"
+            },
+            {
+              "name": "Zara",
+              "code": "58_06"
+            },
+            {
+              "name": "Kangal",
+              "code": "58_07"
+            },
+            {
+              "name": "Gürün",
+              "code": "58_08"
+            },
+            {
+              "name": "Divriği",
+              "code": "58_09"
+            },
+            {
+              "name": "Koyulhisar",
+              "code": "58_10"
+            },
+            {
+              "name": "Hafik",
+              "code": "58_11"
+            },
+            {
+              "name": "Ulaş",
+              "code": "58_12"
+            },
+            {
+              "name": "Altınyayla",
+              "code": "58_13"
+            },
+            {
+              "name": "İmranlı",
+              "code": "58_14"
+            },
+            {
+              "name": "Akıncılar",
+              "code": "58_15"
+            },
+            {
+              "name": "Gölova",
+              "code": "58_16"
+            },
+            {
+              "name": "Doğanşar",
+              "code": "58_17"
+            }
+          ]
+        },
+
+        {
+          "name": "Tekirdağ",
+          "code": "59",
+          "towns": [
+            {
+              "name": "Çorlu",
+              "code": "59_01"
+            },
+            {
+              "name": "Süleymanpaşa",
+              "code": "59_02"
+            },
+            {
+              "name": "Çerkezköy",
+              "code": "59_03"
+            },
+            {
+              "name": "Kapaklı",
+              "code": "59_04"
+            },
+            {
+              "name": "Ergene",
+              "code": "59_05"
+            },
+            {
+              "name": "Malkara",
+              "code": "59_06"
+            },
+            {
+              "name": "Saray",
+              "code": "59_07"
+            },
+            {
+              "name": "Şarköy",
+              "code": "59_08"
+            },
+            {
+              "name": "Hayrabolu",
+              "code": "59_09"
+            },
+            {
+              "name": "Muratlı",
+              "code": "59_10"
+            },
+            {
+              "name": "Marmaraereğlisi",
+              "code": "59_11"
+            }
+          ]
+        },
+
+        {
+          "name": "Tokat",
+          "code": "60",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "60_01"
+            },
+            {
+              "name": "Erbaa",
+              "code": "60_02"
+            },
+            {
+              "name": "Turhal",
+              "code": "60_03"
+            },
+            {
+              "name": "Niksar",
+              "code": "60_04"
+            },
+            {
+              "name": "Zile",
+              "code": "60_05"
+            },
+            {
+              "name": "Reşadiye",
+              "code": "60_06"
+            },
+            {
+              "name": "Almus",
+              "code": "60_07"
+            },
+            {
+              "name": "Pazar",
+              "code": "60_08"
+            },
+            {
+              "name": "Yeşilyurt",
+              "code": "60_09"
+            },
+            {
+              "name": "Artova",
+              "code": "60_10"
+            },
+            {
+              "name": "Sulusaray",
+              "code": "60_11"
+            },
+            {
+              "name": "Başçiftlik",
+              "code": "60_12"
+            }
+          ]
+        },
+
+        {
+          "name": "Trabzon",
+          "code": "61",
+          "towns": [
+            {
+              "name": "Ortahisar",
+              "code": "61_01"
+            },
+            {
+              "name": "Akçaabat",
+              "code": "61_02"
+            },
+            {
+              "name": "Araklı",
+              "code": "61_03"
+            },
+            {
+              "name": "Of",
+              "code": "61_04"
+            },
+            {
+              "name": "Yomra",
+              "code": "61_05"
+            },
+            {
+              "name": "Arsin",
+              "code": "61_06"
+            },
+            {
+              "name": "Vakfıkebir",
+              "code": "61_07"
+            },
+            {
+              "name": "Sürmene",
+              "code": "61_08"
+            },
+            {
+              "name": "Maçka",
+              "code": "61_09"
+            },
+            {
+              "name": "Beşikdüzü",
+              "code": "61_10"
+            },
+            {
+              "name": "Çarşıbaşı",
+              "code": "61_11"
+            },
+            {
+              "name": "Çaykara",
+              "code": "61_12"
+            },
+            {
+              "name": "Tonya",
+              "code": "61_13"
+            },
+            {
+              "name": "Düzköy",
+              "code": "61_14"
+            },
+            {
+              "name": "Şalpazarı",
+              "code": "61_15"
+            },
+            {
+              "name": "Hayrat",
+              "code": "61_16"
+            },
+            {
+              "name": "Köprübaşı",
+              "code": "61_17"
+            },
+            {
+              "name": "Dernekpazarı",
+              "code": "61_18"
+            }
+          ]
+        },
+
+        {
+          "name": "Tunceli",
+          "code": "62",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "62_01"
+            },
+            {
+              "name": "Pertek",
+              "code": "62_02"
+            },
+            {
+              "name": "Mazgirt",
+              "code": "62_03"
+            },
+            {
+              "name": "Çemişgezek",
+              "code": "62_04"
+            },
+            {
+              "name": "Ovacık",
+              "code": "62_05"
+            },
+            {
+              "name": "Hozat",
+              "code": "62_06"
+            },
+            {
+              "name": "Pülümür",
+              "code": "62_07"
+            },
+            {
+              "name": "Nazımiye",
+              "code": "62_08"
+            }
+          ]
+        },
+
+        {
+          "name": "Şanlıurfa",
+          "code": "63",
+          "towns": [
+            {
+              "name": "Eyyübiye",
+              "code": "63_01"
+            },
+            {
+              "name": "Haliliye",
+              "code": "63_02"
+            },
+            {
+              "name": "Siverek",
+              "code": "63_03"
+            },
+            {
+              "name": "Viranşehir",
+              "code": "63_04"
+            },
+            {
+              "name": "Karaköprü",
+              "code": "63_05"
+            },
+            {
+              "name": "Akçakale",
+              "code": "63_06"
+            },
+            {
+              "name": "Suruç",
+              "code": "63_07"
+            },
+            {
+              "name": "Birecik",
+              "code": "63_08"
+            },
+            {
+              "code": "63_09"
+            },
+            {
+              "name": "Ceylanpınar",
+              "code": "63_10"
+            },
+            {
+              "name": "Bozova",
+              "code": "63_11"
+            },
+            {
+              "name": "Hilvan",
+              "code": "63_12"
+            }
+          ]
+        },
+
+        {
+          "name": "Uşak",
+          "code": "64",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "64_01"
+            },
+            {
+              "name": "Banaz",
+              "code": "64_02"
+            },
+            {
+              "name": "Eşme",
+              "code": "64_03"
+            },
+            {
+              "name": "Sivaslı",
+              "code": "64_04"
+            },
+            {
+              "name": "Ulubey",
+              "code": "64_05"
+            },
+            {
+              "name": "Karahallı",
+              "code": "64_06"
+            }
+          ]
+        },
+
+        {
+          "name": "Van",
+          "code": "65",
+          "towns": [
+            {
+              "name": "İpekyolu",
+              "code": "65_01"
+            },
+            {
+              "name": "Erciş",
+              "code": "65_02"
+            },
+            {
+              "name": "Tuşba",
+              "code": "65_03"
+            },
+            {
+              "name": "Edremit",
+              "code": "65_04"
+            },
+            {
+              "name": "Özalp",
+              "code": "65_05"
+            },
+            {
+              "name": "Çaldıran",
+              "code": "65_06"
+            },
+            {
+              "name": "Başkale",
+              "code": "65_07"
+            },
+            {
+              "name": "Muradiye",
+              "code": "65_08"
+            },
+            {
+              "name": "Gürpınar",
+              "code": "65_09"
+            },
+            {
+              "name": "Gevaş",
+              "code": "65_10"
+            },
+            {
+              "name": "Saray",
+              "code": "65_11"
+            },
+            {
+              "name": "Çatak",
+              "code": "65_12"
+            },
+            {
+              "name": "Bahçesaray",
+              "code": "65_13"
+            }
+          ]
+        },
+
+        {
+          "name": "Yozgat",
+          "code": "66",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "66_01"
+            },
+            {
+              "name": "Sorgun",
+              "code": "66_02"
+            },
+            {
+              "name": "Akdağmadeni",
+              "code": "66_03"
+            },
+            {
+              "name": "Yerköy",
+              "code": "66_04"
+            },
+            {
+              "name": "Boğazlıyan",
+              "code": "66_05"
+            },
+            {
+              "name": "Sarıkaya",
+              "code": "66_06"
+            },
+            {
+              "name": "Çekerek",
+              "code": "66_07"
+            },
+            {
+              "name": "Şefaatli",
+              "code": "66_08"
+            },
+            {
+              "name": "Saraykent",
+              "code": "66_09"
+            },
+            {
+              "name": "Çayıralan",
+              "code": "66_10"
+            },
+            {
+              "name": "Kadışehri",
+              "code": "66_11"
+            },
+            {
+              "name": "Aydıncık",
+              "code": "66_12"
+            },
+            {
+              "name": "Yenifakılı",
+              "code": "66_13"
+            },
+            {
+              "name": "Çandır",
+              "code": "66_14"
+            }
+          ]
+        },
+
+        {
+          "name": "Zonguldak",
+          "code": "67",
+          "towns": [
+            {
+              "name": "Ereğli",
+              "code": "67_01"
+            },
+            {
+              "name": "Merkez",
+              "code": "67_02"
+            },
+            {
+              "name": "Çaycuma",
+              "code": "67_03"
+            },
+            {
+              "name": "Devrek",
+              "code": "67_04"
+            },
+            {
+              "name": "Kozlu",
+              "code": "67_05"
+            },
+            {
+              "name": "Alaplı",
+              "code": "67_06"
+            },
+            {
+              "name": "Kilimli",
+              "code": "67_07"
+            },
+            {
+              "name": "Gökçebey",
+              "code": "67_08"
+            }
+          ]
+        },
+
+        {
+          "name": "Aksaray",
+          "code": "68",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "68_01"
+            },
+            {
+              "name": "Ortaköy",
+              "code": "68_02"
+            },
+            {
+              "name": "Eskil",
+              "code": "68_03"
+            },
+            {
+              "name": "Gülağaç",
+              "code": "68_04"
+            },
+            {
+              "name": "Güzelyurt",
+              "code": "68_05"
+            },
+            {
+              "name": "Sultanhanı",
+              "code": "68_06"
+            },
+            {
+              "name": "Ağaçören",
+              "code": "68_07"
+            },
+            {
+              "name": "Sarıyahşi",
+              "code": "68_08"
+            }
+          ]
+        },
+
+        {
+          "name": "Bayburt",
+          "code": "69",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "69_01"
+            },
+            {
+              "name": "Demirözü",
+              "code": "69_02"
+            },
+            {
+              "name": "Aydıntepe",
+              "code": "69_03"
+            }
+          ]
+        },
+
+        {
+          "name": "Karaman",
+          "code": "70",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "70_01"
+            },
+            {
+              "name": "Ermenek",
+              "code": "70_02"
+            },
+            {
+              "name": "Sarıveliler",
+              "code": "70_03"
+            },
+            {
+              "name": "Ayrancı",
+              "code": "70_04"
+            },
+            {
+              "name": "Kazımkarabekir",
+              "code": "70_05"
+            },
+            {
+              "name": "Başyayla",
+              "code": "70_06"
+            }
+          ]
+        },
+
+        {
+          "name": "Kırıkkale",
+          "code": "71",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "71_01"
+            },
+            {
+              "name": "Yahşihan",
+              "code": "71_02"
+            },
+            {
+              "name": "Keskin",
+              "code": "71_03"
+            },
+            {
+              "name": "Delice",
+              "code": "71_04"
+            },
+            {
+              "name": "Sulakyurt",
+              "code": "71_05"
+            },
+            {
+              "name": "Bahşili",
+              "code": "71_06"
+            },
+            {
+              "name": "Balışeyh",
+              "code": "71_07"
+            },
+            {
+              "name": "Karakeçili",
+              "code": "71_08"
+            },
+            {
+              "name": "Çelebi",
+              "code": "71_09"
+            }
+          ]
+        },
+
+        {
+          "name": "Batman",
+          "code": "72",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "72_01"
+            },
+            {
+              "name": "Kozluk",
+              "code": "72_02"
+            },
+            {
+              "name": "Sason",
+              "code": "72_03"
+            },
+            {
+              "name": "Beşiri",
+              "code": "72_04"
+            },
+            {
+              "name": "Gercüş",
+              "code": "72_05"
+            },
+            {
+              "name": "Hasankeyf",
+              "code": "72_06"
+            }
+          ]
+        },
+
+        {
+          "name": "Şırnak",
+          "code": "73",
+          "towns": [
+            {
+              "name": "Cizre",
+              "code": "73_01"
+            },
+            {
+              "name": "Silopi",
+              "code": "73_02"
+            },
+            {
+              "name": "Merkez",
+              "code": "73_03"
+            },
+            {
+              "name": "İdil",
+              "code": "73_04"
+            },
+            {
+              "name": "Uludere",
+              "code": "73_05"
+            },
+            {
+              "name": "Beytüşşebap",
+              "code": "73_06"
+            },
+            {
+              "name": "Güçlükonak",
+              "code": "73_07"
+            }
+          ]
+        },
+
+        {
+          "name": "Bartın",
+          "code": "74",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "74_01"
+            },
+            {
+              "name": "Ulus",
+              "code": "74_02"
+            },
+            {
+              "name": "Amasra",
+              "code": "74_03"
+            },
+            {
+              "name": "Kurucaşile",
+              "code": "74_04"
+            }
+          ]
+        },
+
+        {
+          "name": "Ardahan",
+          "code": "75",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "75_01"
+            },
+            {
+              "name": "Göle",
+              "code": "75_02"
+            },
+            {
+              "name": "Çıldır",
+              "code": "75_03"
+            },
+            {
+              "name": "Hanak",
+              "code": "75_04"
+            },
+            {
+              "name": "Posof",
+              "code": "75_05"
+            },
+            {
+              "name": "Damal",
+              "code": "75_06"
+            }
+          ]
+        },
+
+        {
+          "name": "Iğdır",
+          "code": "76",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "76_01"
+            },
+            {
+              "name": "Tuzluca",
+              "code": "76_02"
+            },
+            {
+              "name": "Aralık",
+              "code": "76_03"
+            },
+            {
+              "name": "Karakoyunlu",
+              "code": "76_04"
+            }
+          ]
+        },
+
+        {
+          "name": "Yalova",
+          "code": "77",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "77_01"
+            },
+            {
+              "name": "Çiftlikköy",
+              "code": "77_02"
+            },
+            {
+              "name": "Çınarcık",
+              "code": "77_03"
+            },
+            {
+              "name": "Altınova",
+              "code": "77_04"
+            },
+            {
+              "name": "Armutlu",
+              "code": "77_05"
+            },
+            {
+              "name": "Termal",
+              "code": "77_06"
+            }
+          ]
+        },
+
+        {
+          "name": "Karabük",
+          "code": "78",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "78_01"
+            },
+            {
+              "name": "Safranbolu",
+              "code": "78_02"
+            },
+            {
+              "name": "Yenice",
+              "code": "78_03"
+            },
+            {
+              "name": "Eskipazar",
+              "code": "78_04"
+            },
+            {
+              "name": "Eflani",
+              "code": "78_05"
+            },
+            {
+              "name": "Ovacık",
+              "code": "78_06"
+            }
+          ]
+        },
+
+        {
+          "name": "Kilis",
+          "code": "79",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "79_01"
+            },
+            {
+              "name": "Musabeyli",
+              "code": "79_02"
+            },
+            {
+              "name": "Elbeyli",
+              "code": "79_03"
+            },
+            {
+              "name": "Polateli",
+              "code": "79_04"
+            }
+          ]
+        },
+
+        {
+          "name": "Osmaniye",
+          "code": "80",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "80_01"
+            },
+            {
+              "name": "Kadirli",
+              "code": "80_02"
+            },
+            {
+              "name": "Düziçi",
+              "code": "80_03"
+            },
+            {
+              "name": "Bahçe",
+              "code": "80_04"
+            },
+            {
+              "name": "Toprakkale",
+              "code": "80_05"
+            },
+            {
+              "name": "Sumbas",
+              "code": "80_06"
+            },
+            {
+              "name": "Hasanbeyli",
+              "code": "80_07"
+            }
+          ]
+        },
+
+        {
+          "name": "Düzce",
+          "code": "81",
+          "towns": [
+            {
+              "name": "Merkez",
+              "code": "81_01"
+            },
+            {
+              "name": "Akçakoca",
+              "code": "81_02"
+            },
+            {
+              "name": "Kaynaşlı",
+              "code": "81_03"
+            },
+            {
+              "name": "Gölyaka",
+              "code": "81_04"
+            },
+            {
+              "name": "Çilimli",
+              "code": "81_05"
+            },
+            {
+              "name": "Yığılca",
+              "code": "81_06"
+            },
+            {
+              "name": "Gümüşova",
+              "code": "81_07"
+            },
+            {
+              "name": "Cumayeri",
+              "code": "81_08"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
